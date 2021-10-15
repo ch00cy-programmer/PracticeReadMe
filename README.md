@@ -1,2 +1,8 @@
-# PracticeReadMe
-I'm practicing how to write ReadMe like a blog!
+#Hi
+##I'm Practicing
+###ReadME
+####And this is a 
+#####Header
+/..
+Thesting
+../
